@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kellyjadams
+- 👀 I’m interested in becoming a data analyst
+- 🌱 I’m currently learning Tableau, Python, and SQL
+- 💞️ I’m looking to collaborate on projects that could help expand my business knowledge
+- 📫 How to reach me: kelly@kellyjadams.com
