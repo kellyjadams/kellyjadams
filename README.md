@@ -12,8 +12,8 @@
 - Skills: Critical Thinking; Research; Problem Solving; Technical & Content Writing; Leadership; Communication;
 
 ## 📚 Projects
-- Click [here](https://www.kellyjadams.com/portfolio) to view my portfolio projects on my website with relevant links and articles. 
-- Click [here](https://github.com/kellyjadams/portfolioProjects) to view my portfolio on Github.
+- View my portfolio on **my website** [here](https://www.kellyjadams.com/portfolio). 
+- View my portfolio on **Github** [here](https://github.com/kellyjadams/portfolioProjects).
 
 ## 💻 Curently Learning 
 - [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none)
