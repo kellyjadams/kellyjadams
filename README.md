@@ -9,7 +9,7 @@
 
 ## Skills and Tools
 - Tools: Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
-- Skills: Critical Thinking; Research; Problem Solving; Technical & Content Writing; Leadership; Communication;
+- Skills: Critical Thinking; Research; Problem Solving; Technical & Content Writing; Leadership; Communication.
 
 ## 📚 Projects
 - View my portfolio on **my website** [here](https://www.kellyjadams.com/portfolio). 
