@@ -4,15 +4,16 @@
 - ⚖ Current paralegal with 2+ years of experience in property law
 - 📐 Degree in mathematics education 
 - 🔍 Love learning new technical skills
-- ✏ Created a blog where I write about data analytics, productivity and self development. You can view it [here](https://www.kellyjadams.com/blog)
-- ✉ I send out a weekly newsletter with blog updates and resources/tips I found that week. You can sign up [here](https://newsletter.kellyjadams.com/)
+- ✏ Created a [blog](https://www.kellyjadams.com/blog) where I write about data analytics, productivity and self development. 
+- ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) with blog updates and resources/tips I found that week. 
 
 ## Skills and Tools
 - Tools: Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
 - Skills: Critical Thinking; Research; Problem Solving; Technical & Content Writing; Leadership; Communication;
 
 ## 📚 Projects
-- Click [here](https://www.kellyjadams.com/portfolio) to view my portfolio projects with relevant links and articles. 
+- Click [here](https://www.kellyjadams.com/portfolio) to view my portfolio projects on my website with relevant links and articles. 
+- Click [here](https://github.com/kellyjadams/portfolioProjects) to view my portfolio on Github.
 
 ## 💻 Curently Learning 
 - [Google Data Analytics Course](https://grow.google/dataanalytics/#?modal_active=none)
