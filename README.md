@@ -23,5 +23,5 @@
 
 ## 📫 Connect with Me
 - [Website](https://www.kellyjadams.com/)
-- [LinkedIn](https://twitter.com/KellyjAdamz)
-- [Twitter](https://www.linkedin.com/in/kellyjianadams/)
+- [Twitter](https://twitter.com/KellyjAdamz)
+- [LinkedIn](https://www.linkedin.com/in/kellyjianadams/)
