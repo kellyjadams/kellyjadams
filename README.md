@@ -4,7 +4,7 @@
 - ⚖ Current paralegal with 2+ years of experience in property law
 - 📐 Degree in mathematics education 
 - 🔍 Love learning new skills
-- ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data science, learning and self development. 
+- ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data science or learning new ideas/skills in non-technical fields. 
 - ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with blog updates and bite-sized resources/tips on data science and self-improvement. 
 
 ## 🛠 Skills and Tools
