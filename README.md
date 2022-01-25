@@ -8,8 +8,8 @@
 - ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with blog updates and bite-sized resources/tips on data science and self-improvement. 
 
 ## 🛠 Skills and Tools
-- Tools: Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
-- Skills: Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication; Teaching.
+- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
+- **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication; Teaching.
 
 ## 📚 Projects
 - View my portfolio projects on **my website** [here](https://www.kellyjadams.com/portfolio). 
