@@ -19,7 +19,7 @@
 ## 💻 Curently Improving My Skills In...
 - **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
 - **SQL** from [Data with Danny's](https://www.datawithdanny.com/) course [Serious SQL](https://www.datawithdanny.com/courses/serious-sql)
-- **Digital Writing** with [David Perell's](https://perell.com/) free email course [50 Days of Writing](https://ageofleverage.com/50-days-of-writing)
+- **Digital Writing** with Albert Bellamy's [LinkedIn Hard Mode Challenge](https://www.linkedin.com/posts/bellamy-al_linkedin-harder-mode-activity-6883390934579511296-Fkdo)
 
 ## 📫 Connect with Me
 - [Website](https://www.kellyjadams.com/)
