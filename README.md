@@ -1,14 +1,14 @@
-👋 Hi, I’m Kelly, a self-taught data analyst and content writer from the US.
+👋 Hi, I’m Kelly, a data analyst and content writer from the US.
 
 ## 🙋‍♀️ About Me
-- ⚖ Current paralegal with 2+ years of experience in property law
+- ⚖ Current paralegal with 3+ years of experience in property law.
 - 📐 Degree in mathematics education and currently tutoring high school math part-time. 
-- 🔍 Love learning new skills
+- 🔍 Love learning new skills.
 - ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data science or learning new ideas/skills in non-technical fields. 
-- ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with blog updates and bite-sized resources/tips on data science and self-improvement. 
+- ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with: 1 new blog post from me; 2 things I learned that week; and 3 bite-sized resources. 
 
 ## 🛠 Skills and Tools
-- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
+- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas NumPy);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
 - **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication; Teaching.
 
 ## 📚 Projects
@@ -17,7 +17,7 @@
 - View my data vidualizations on **Tableau Public** [here](https://public.tableau.com/app/profile/kellyjadams)
 
 ## 💻 Curently Improving My Skills In...
-- **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
+- **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - **SQL** from [Data with Danny's](https://www.datawithdanny.com/) course [Serious SQL](https://www.datawithdanny.com/courses/serious-sql)
 - **Digital Writing** by posting on LinkedIn every Tuesday and Thursday, you can view my profile below. 
 
