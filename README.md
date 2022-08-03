@@ -16,6 +16,11 @@
 - View my coding projects on **Github** [here](https://github.com/kellyjadams/portfolioProjects).
 - View my data vidualizations on **Tableau Public** [here](https://public.tableau.com/app/profile/kellyjadams)
 
+### ⭐ Favorite Projects
+- [Google Capstone Project](https://public.tableau.com/app/profile/kellyjadams/viz/GoogleCapstoneProjectCyclistic/Dashboard) - Analyzed a dataset for a fictional company, Cyclistic, a bike sharing company in Chicago. Showed how annual members and casual riders use the bike differently. 
+- [Maven Magic Challenge](https://public.tableau.com/app/profile/kellyjadams/viz/MavenMagicChallenge_16408872896170/Dashboard12) - Analyzed a dataset from Maven Analytics for the Maven Magic Challenge. Analyzed the Harry Potter Movies franchise, specifically the dialogue, chapters, movies, characters, places and spells.
+- [LinkedInHardMode Stats](https://public.tableau.com/app/profile/kellyjadams/viz/LinkedInHardModeStats/Dashboard2) - Created a dashboard based off of LinkedIn's website to showcase my post statistics (views, comments, reactions) from all 30 days of the LinkedIn Hard Mode Challenge. 
+
 ## 💻 Curently Improving My Skills In...
 - **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
 - **SQL** from [Datacamp's](https://www.datacamp.com/) course [Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)
