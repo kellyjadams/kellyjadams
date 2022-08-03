@@ -8,7 +8,7 @@
 - ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with: 1 new blog post from me; 2 things I learned that week; and 3 bite-sized resources. 
 
 ## 🛠 Skills and Tools
-- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas NumPy);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
+- **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
 - **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication; Teaching.
 
 ## 📚 Projects
