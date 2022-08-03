@@ -18,7 +18,7 @@
 
 ## 💻 Curently Improving My Skills In...
 - **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
-- **SQL** from [Data with Danny's](https://www.datawithdanny.com/) course [Serious SQL](https://www.datawithdanny.com/courses/serious-sql)
+- **SQL** from [Datacamp's](https://www.datacamp.com/) course [Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)
 - **Digital Writing** by posting on LinkedIn every Tuesday and Thursday, you can view my profile below. 
 
 ## 📫 Connect with Me
