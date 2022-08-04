@@ -13,7 +13,7 @@
 
 ## 📚 Projects
 - View my portfolio projects on **my website** [here](https://www.kellyjadams.com/portfolio). 
-- View my coding projects on **Github** [here](https://github.com/kellyjadams/portfolioProjects).
+- View my coding projects on **Github** [here](https://github.com/kellyjadams?tab=repositories).
 - View my data vidualizations on **Tableau Public** [here](https://public.tableau.com/app/profile/kellyjadams)
 
 ### ⭐ Favorite Projects
