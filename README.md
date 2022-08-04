@@ -1,4 +1,4 @@
-👋 Hi, I’m Kelly, a data analyst and content writer from the US.
+👋 Hi, I’m Kelly, a data analyst and content writer from the US. I'm currently searching for a full time job as a data analyst. 
 
 ## 🙋‍♀️ About Me
 - ⚖ Current paralegal with 3+ years of experience in property law.
