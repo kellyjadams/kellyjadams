@@ -1,7 +1,7 @@
-👋 Hi, I’m Kelly, a data analyst and content writer from the US. I'm currently searching for a full time job as a data analyst. 
+👋 Hi, I’m Kelly, a data analyst and content writer from the US. 
 
 ## 🙋‍♀️ About Me
-- ⚖ Current paralegal with 3+ years of experience in property law.
+- 📊 I'm currently searching for a full time remote job as a data analyst. 
 - 📐 Degree in mathematics education and currently tutoring high school math part-time. 
 - 🔍 Love learning new skills.
 - ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data science or learning new ideas/skills in non-technical fields. 
