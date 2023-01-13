@@ -17,8 +17,8 @@
 - View my data vidualizations on **Tableau Public** [here](https://public.tableau.com/app/profile/kellyjadams)
 
 ### ⭐ Favorite Projects
+- [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - Analyzed my own personal weightlifting data from 3 months, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. 
 - [Google Capstone Project](https://public.tableau.com/app/profile/kellyjadams/viz/GoogleCapstoneProjectCyclistic/Dashboard) - Analyzed a dataset for a fictional company, Cyclistic, a bike sharing company in Chicago. Showed how annual members and casual riders use the bike differently. 
-- [Maven Magic Challenge](https://public.tableau.com/app/profile/kellyjadams/viz/MavenMagicChallenge_16408872896170/Dashboard12) - Analyzed a dataset from Maven Analytics for the Maven Magic Challenge. Analyzed the Harry Potter Movies franchise, specifically the dialogue, chapters, movies, characters, places and spells.
 - [Restaurant Picker](https://github.com/kellyjadams/RestaurantPicker) - Created a program in Python that will randomly choose a restaurant to eat. The user can specify two things: how much they want to spend and the cuisine type. 
 
 ## 💻 Curently Improving My Skills In...
