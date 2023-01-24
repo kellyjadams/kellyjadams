@@ -12,9 +12,9 @@
 - **Skills:** Critical Thinking; Problem Solving; Technical & Content Writing; Leadership; Communication; Teaching.
 
 ## 📚 Projects
-- View my portfolio projects on **my website** [here](https://www.kellyjadams.com/portfolio). 
-- View my coding projects on **Github** [here](https://github.com/kellyjadams?tab=repositories).
-- View my data vidualizations on **Tableau Public** [here](https://public.tableau.com/app/profile/kellyjadams)
+- View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
+- View my coding projects on [**Github**](https://github.com/kellyjadams?tab=repositories).
+- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/kellyjadams).
 
 ### ⭐ Favorite Projects
 - [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - Analyzed my own personal weightlifting data from 3 months, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. 
