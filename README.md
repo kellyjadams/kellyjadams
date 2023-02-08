@@ -23,7 +23,7 @@
 - [Google Capstone Project](https://public.tableau.com/app/profile/kellyjadams/viz/GoogleCapstoneProjectCyclistic/Dashboard) - Analyzed a dataset for a fictional company, Cyclistic, a bike sharing company in Chicago. Showed how annual members and casual riders use the bike differently. 
 
 ## 💻 Curently Improving My Skills In...
-- **Python** from [Jose Portilla's](https://www.udemy.com/user/joseportilla/) course on Udemy [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+- **Tableau** by creating a data visualization a week on Tableau Public. Yo ucan check out my profile [here](https://public.tableau.com/app/profile/kellyjadams).
 - **SQL** from [Datacamp's](https://www.datacamp.com/) course [Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)
 - **Digital Writing** by posting on LinkedIn every Tuesday and Thursday, you can view my profile below. 
 
