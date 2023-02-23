@@ -1,7 +1,7 @@
 👋 Hi, I’m Kelly, a data analyst and content writer from the US. 
 
 ## 🙋‍♀️ About Me
-- 📊 I'm currently searching for a full time remote job as a data analyst. 
+- 📊 I'm currently searching for a full time job as a data analyst. 
 - 📐 Degree in mathematics education and currently tutoring high school math part-time. 
 - 🔍 Love learning new skills.
 - ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
@@ -25,8 +25,8 @@
 
 ## 💻 Curently Improving My Skills In...
 - **Tableau** by creating a data visualization a week on Tableau Public. You can check out my profile [here](https://public.tableau.com/app/profile/kellyjadams).
-- **SQL** from [Datacamp's](https://www.datacamp.com/) course [Joining Data in SQL](https://app.datacamp.com/learn/courses/joining-data-in-sql)
-- **Digital Writing** by posting on LinkedIn every Tuesday and Thursday, you can view my profile below. 
+- **SQL** using sites like [HackerRank](https://www.hackerrank.com/) and [Stratascratch](https://www.stratascratch.com/). 
+- **Digital Writing** by posting on LinkedIn 4 times a week you can view my profile below. 
 
 ## 📫 Connect with Me
 - [Website](https://www.kellyjadams.com/)
