@@ -1,4 +1,4 @@
-👋 Hi, I’m Kelly, a data analyst and content writer from the US. 
+👋 Hi, I’m Kelly, a data analyst from the US. 
 
 ## 🙋‍♀️ About Me
 - 📊 I'm currently searching for a full time job as a data analyst. 
