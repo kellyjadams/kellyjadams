@@ -4,8 +4,8 @@
 - 📊 I'm currently searching for a full time job as a data analyst. 
 - 📐 Degree in mathematics education and currently tutoring high school math part-time. 
 - 🔍 Love learning new skills.
-- ✏ Post weekly on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
-- ✉ I send out a [weekly newsletter](https://newsletter.kellyjadams.com/) every Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, careers in data science. 
+- ✏ Post every other week on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
+- ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, careers in data science. 
 
 ## 🛠 Skills and Tools
 - **Tools:** Tableau; SQL (JOINS, ORER BY, GROUP BY); Python (Pandas, NumPy);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts)
