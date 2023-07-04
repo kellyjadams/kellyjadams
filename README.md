@@ -1,7 +1,7 @@
 👋 Hi, I’m Kelly, a data analyst from the US. 
 
 ## 🙋‍♀️ About Me
-- 📊 I'm currently searching a full time data analyst. 
+- 📊 I'm currently a full time data analyst. 
 - 📐 Degree in mathematics education and currently tutoring high school math part-time. 
 - 🔍 Love learning new skills.
 - ✏ Post every other week on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
