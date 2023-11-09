@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About Me
 - 📊 I'm currently as a data analyst at [Golden Hearts Gaming](https://www.goldenheartsgames.com/home). 
-- 📐 Degree in mathematics education and also working for [Subset](subset.so) in content marketing.
+- 📐 Degree in mathematics education.
 - 🏋️‍♀️ Avid weightlifter. 
 - ✏ Post every other week on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
 - ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
