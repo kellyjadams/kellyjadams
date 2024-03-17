@@ -8,9 +8,14 @@
 - ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
 
 ## 🛠 Skills
+### Programming Languages
+![](https://img.shields.io/badge/-SQL-blue) ![](https://img.shields.io/badge/-Python-yellow) ![](https://img.shields.io/badge/-Pandas-lightgrey) ![](https://img.shields.io/badge/-NumPy-orange) ![](https://img.shields.io/badge/-Matplotlib-blueviolet) ![](https://img.shields.io/badge/-R-brightgreen) ![](https://img.shields.io/badge/-ggplot2-red) ![](https://img.shields.io/badge/-tidyverse-blue) 
 
-![](https://img.shields.io/badge/-SQL-blue) ![](https://img.shields.io/badge/-Python-yellow) ![](https://img.shields.io/badge/-Pandas-lightgrey) ![](https://img.shields.io/badge/-NumPy-orange) ![](https://img.shields.io/badge/-Matplotlib-blueviolet) ![](https://img.shields.io/badge/-R-brightgreen) ![](https://img.shields.io/badge/-ggplot2-red) ![](https://img.shields.io/badge/-tidyverse-blue) ![](https://img.shields.io/badge/-Excel-green) ![](https://img.shields.io/badge/-Git-lightgrey) ![](https://img.shields.io/badge/-Tableau-yellowgreen) ![](https://img.shields.io/badge/-Google_Looker-blue) ![](https://img.shields.io/badge/-Google_BigQuery-4285F4)
+### Tools
+![](https://img.shields.io/badge/-Excel-green) ![](https://img.shields.io/badge/-Tableau-yellowgreen) ![](https://img.shields.io/badge/-Google_Looker-blue) ![](https://img.shields.io/badge/-Google_BigQuery-4285F4)
 
+### Misc
+![](https://img.shields.io/badge/-Git-lightgrey)
 
 ## 📚 Projects
 - View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
