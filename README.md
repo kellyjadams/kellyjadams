@@ -9,9 +9,9 @@
 - ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
 
 ## 🛠 Skills
-- **Programming Languages**: ![](https://img.shields.io/badge/-SQL-blue) ![](https://img.shields.io/badge/-Python-yellow) ![](https://img.shields.io/badge/-R-brightgreen)
-- **Tools**: ![](https://img.shields.io/badge/-Excel-green) ![](https://img.shields.io/badge/-Tableau-yellowgreen) ![](https://img.shields.io/badge/-Google_Looker-blue) ![](https://img.shields.io/badge/-Google_BigQuery-4285F4)
-- **Misc**: ![](https://img.shields.io/badge/-Git-lightgrey) 
+- **Programming Languages**: SQL (postgreSQL, SQlite) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
+- **Tools**: Excel | Tableau | Google Looker Studio | Google BigQuery 
+- **Misc**: Git
 
 ## 📚 Projects
 
