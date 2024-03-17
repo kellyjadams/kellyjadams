@@ -7,9 +7,10 @@
 - ✏ Post every other week on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
 - ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
 
-## 🛠 Skills and Tools
-- **Tools:** Tableau; SQL (JOINS, CTEs, subqueries, UNIONs); Python (Pandas, NumPy);  R (ggplot2, tidyverse); Excel (Pivot tables, Vlookup, Charts), Google Looker, Google BigQuery, Git.
-- **Skills:** Critical Thinking, Problem Solving, Technical & Content Writing, Leadership, Communication.
+## 🛠 Skills
+
+![](https://img.shields.io/badge/-SQL-blue) ![](https://img.shields.io/badge/-Python-yellow) ![](https://img.shields.io/badge/-Pandas-lightgrey) ![](https://img.shields.io/badge/-NumPy-orange) ![](https://img.shields.io/badge/-Matplotlib-blueviolet) ![](https://img.shields.io/badge/-R-brightgreen) ![](https://img.shields.io/badge/-ggplot2-red) ![](https://img.shields.io/badge/-tidyverse-blue) ![](https://img.shields.io/badge/-Excel-green) ![](https://img.shields.io/badge/-Git-lightgrey) ![](https://img.shields.io/badge/-Tableau-yellowgreen) ![](https://img.shields.io/badge/-Google_Looker-blue) ![](https://img.shields.io/badge/-Google_BigQuery-4285F4)
+
 
 ## 📚 Projects
 - View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
