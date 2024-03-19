@@ -23,7 +23,7 @@
 
 - [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - This is an ongoing project where I analyze my own personal weightlifting data, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my [weightlifting-data repository](https://github.com/kellyjadams/weightlifting-data).
 - [SQL Course Queries](https://github.com/kellyjadams/SQL_Project_Data_Job_Analysis) - Wrote all of the SQL queries in Luke Barousse's SQL free SQL course. 
-- [Python Tutorial Code **Still in progress**](https://github.com/lukebarousse/Python_Tutorial_Data_Analysis) - Produced content (code) for Luke Barousse's free Python for Data Analytics course. 
+- (**Still in progress**) [Python Tutorial Code](https://github.com/lukebarousse/Python_Tutorial_Data_Analysis) - Produced content (code) for Luke Barousse's free Python for Data Analytics course. 
 
 ## 📫 Connect with Me
 
