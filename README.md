@@ -9,7 +9,7 @@
 - ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
 
 ## 🛠 Skills
-- **Programming Languages**: SQL (postgreSQL, SQlite) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
+- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib)
 - **Tools**: Excel | Tableau | Google Looker Studio | Google BigQuery 
 - **Misc**: Git
 
@@ -21,9 +21,9 @@
 
 ### ⭐ Favorite Projects
 
-- [Weightlifting Project](https://public.tableau.com/app/profile/kellyjadams/viz/WeightliftingProject/Final) - This is an ongoing project where I analyze my own personal weightlifting data, focused on measuring key metrics like: weight; reps; sets; volume; and estimated 1 rep max. View my [weightlifting-data repository](https://github.com/kellyjadams/weightlifting-data).
+- [Deep Work Dashboard](https://lookerstudio.google.com/u/0/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
 - [SQL Course Queries](https://github.com/kellyjadams/SQL_Project_Data_Job_Analysis) - Wrote all of the SQL queries in Luke Barousse's free SQL course. 
-- (**Still in progress**) [Python Tutorial Code](https://github.com/lukebarousse/Python_Tutorial_Data_Analysis) - Created a majority of the code for Luke Barousse's free Python for Data Analytics course. 
+- (**Still in progress**) [Python Tutorial Code](https://github.com/lukebarousse/Python_Data_Analytics_Course) - Created a majority of the code for Luke Barousse's free Python for Data Analytics course. 
 
 ## 📫 Connect with Me
 
