@@ -23,7 +23,7 @@
 
 - [Deep Work Dashboard](https://lookerstudio.google.com/u/0/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
 - [SQL Course Queries](https://github.com/kellyjadams/SQL_Project_Data_Job_Analysis) - Wrote all of the SQL queries in Luke Barousse's free SQL course. 
-- (**Still in progress**) [Python Tutorial Code](https://github.com/lukebarousse/Python_Data_Analytics_Course) - Created a majority of the code for Luke Barousse's free Python for Data Analytics course. 
+- (**Still in progress**) [Python Tutorial Code](https://github.com/lukebarousse/Python_Data_Analytics_Course) - Collaborated with Luke Barousse to write the code for his free Python for Data Analytics course. 
 
 ## 📫 Connect with Me
 
