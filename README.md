@@ -4,14 +4,14 @@
 
 - 📊 I'm currently as a data analyst at [Golden Hearts Gaming](https://www.goldenheartsgames.com/home).
 - 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
-- 📐 Degree in mathematics education.
-- ✏ Post every other week on my [blog](https://www.kellyjadams.com/blog) where I write about data analytics, switching careers or learning new skills. 
-- ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new blog post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
+- 📐 My degree is in mathematics secondary education.
+- ✏ Post 2-3 times on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page. 
+- ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new [blog](https://www.kellyjadams.com/blog) post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
 
 ## 🛠 Skills
-- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib)
-- **Tools**: Excel | Tableau | Google Looker Studio | Google BigQuery 
-- **Misc**: Git
+- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib) | R (ggplot2, tidyverse)
+- **Tools**: Google Looker Studio | Google BigQuery | Excel | Tableau |
+- **Misc**: Git | Github
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,7 +19,6 @@
 
 - View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
 - View my coding projects on [**Github**](https://github.com/kellyjadams?tab=repositories).
-- View my data vidualizations on [**Tableau Public**](https://public.tableau.com/app/profile/kellyjadams).
 
 ### ⭐ Favorite Projects
 
