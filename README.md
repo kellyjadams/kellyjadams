@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 📊 I'm currently as a data analyst at [Golden Hearts Gaming](https://www.goldenheartsgames.com/home).
+- 📊 I'm currently as a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
 - 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
 - 📐 My degree is in mathematics secondary education.
 - ✏ Post 2-3 times on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page. 
