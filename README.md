@@ -26,7 +26,7 @@
 - [Python Weekly Report](https://github.com/kellyjadams/bigquery-python-weekly-report/tree/main) - Wrote a Python script to automate part of my process for generating a weekly report. This helps improve accuracy and save time.
 - [Deep Work Dashboard](https://lookerstudio.google.com/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789/page/6C3tD) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
 
-## Courses
+## 📚 Courses
 - [Excel](https://www.lukebarousse.com/a/2147977813/NY7yabZz)
 - [Python](https://www.lukebarousse.com/a/2147873313/NY7yabZz)
 - [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz)
