@@ -2,7 +2,7 @@
 
 ## 🙋‍♀️ About Me
 
-- 📊 I'm currently as a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
+- 📊 I'm currently a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
 - 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
 - 📐 My degree is in mathematics secondary education.
 - ✏ Post 2-3 times on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page. 
@@ -25,6 +25,13 @@
 - [Churn Predictive Model](https://github.com/kellyjadams/predictive-model-1) - Developed a predictive model to return customers who are predicted to churn. I used a random forest model. 
 - [Python Weekly Report](https://github.com/kellyjadams/bigquery-python-weekly-report/tree/main) - Wrote a Python script to automate part of my process for generating a weekly report. This helps improve accuracy and save time.
 - [Deep Work Dashboard](https://lookerstudio.google.com/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789/page/6C3tD) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
+
+## Courses
+- [Excel](https://www.lukebarousse.com/a/2147977813/NY7yabZz)
+- [Python](https://www.lukebarousse.com/a/2147873313/NY7yabZz)
+- [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz)
+
+*The links for my courses above are affiliate links. If you decide to purchase the optional course resources through these links, I may receive a small commission at no extra cost to you.*
 
 ## 📫 Connect with Me
 
