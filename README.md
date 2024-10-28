@@ -27,9 +27,9 @@
 - [Deep Work Dashboard](https://lookerstudio.google.com/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789/page/6C3tD) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
 
 ## 📚 Courses
-- [Excel](https://www.lukebarousse.com/a/2147977813/NY7yabZz)
-- [Python](https://www.lukebarousse.com/a/2147873313/NY7yabZz)
-- [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz)
+- [Excel](https://www.lukebarousse.com/a/2147977813/NY7yabZz) - [Excel Course Repo](https://github.com/lukebarousse/Excel_Data_Analytics_Course)
+- [Python](https://www.lukebarousse.com/a/2147873313/NY7yabZz) - [Python Course Repo](https://github.com/lukebarousse/Python_Data_Analytics_Course)
+- [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz) - [Beginner SQL Course Repo](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis)
 
 *The links for my courses above are affiliate links. If you decide to purchase the optional course resources through these links, I may receive a small commission at no extra cost to you.*
 
