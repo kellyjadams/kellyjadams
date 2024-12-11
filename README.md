@@ -40,3 +40,5 @@
 
 - [Website](https://www.kellyjadams.com/)
 - [LinkedIn](https://www.linkedin.com/in/kellyjianadams/)
+
+The Top Languages Chart code can be found in this repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).
