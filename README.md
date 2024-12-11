@@ -13,7 +13,7 @@
 - **Tools**: Google Looker Studio | Google BigQuery | Excel | Tableau |
 - **Misc**: Git | Github
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams)](https://github.com/anuraghazra/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📚 Projects
 
