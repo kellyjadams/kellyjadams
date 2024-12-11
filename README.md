@@ -10,7 +10,7 @@
 
 ## 🛠 Skills
 - **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn) | R (ggplot2, tidyverse)
-- **Tools**: Google Looker Studio | Google BigQuery | Excel | Tableau |
+- **Tools**: Google Looker Studio | Google BigQuery | Google Cloud Platform | Excel
 - **Misc**: Git | Github
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
