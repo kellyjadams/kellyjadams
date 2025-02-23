@@ -3,28 +3,23 @@
 ## 🙋‍♀️ About Me
 
 - 📊 I'm currently a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
+- ⚙️ I specialize in product analytics and analytics engineering. 
 - 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
-- 📐 My degree is in mathematics secondary education.
-- ✏ Post 2-3 times on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page. 
-- ✉ I send out a [newsletter](https://newsletter.kellyjadams.com/) every other Friday with: 1 new [blog](https://www.kellyjadams.com/blog) post from me; and 3 bite-sized resources related to data analytics, learning, and careers. 
+- ✏ Post on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page about data analytics. 
+- ✉ I have a [blog](https://www.kellyjadams.com/blog) focusing on data engineering, data analytics, and my career journey. 
 
 ## 🛠 Skills
-- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn) | R (ggplot2, tidyverse)
+- **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - **Tools**: Google Looker Studio | Google BigQuery | Google Cloud Platform | Excel
-- **Misc**: Git | Github
+- **Other**: ETL | Rest APIs | Git | Github
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📚 Projects
-
-- View my portfolio projects on [**my website**](https://www.kellyjadams.com/portfolio). 
-- View my coding projects on [**Github**](https://github.com/kellyjadams?tab=repositories).
-
-### ⭐ Favorite Projects
+## ⭐ Favorite Repos
 
 - [Churn Predictive Model](https://github.com/kellyjadams/predictive-model-1) - Developed a predictive model to return customers who are predicted to churn. I used a random forest model. 
 - [Python Weekly Report](https://github.com/kellyjadams/bigquery-python-weekly-report/tree/main) - Wrote a Python script to automate part of my process for generating a weekly report. This helps improve accuracy and save time.
-- [Deep Work Dashboard](https://lookerstudio.google.com/reporting/26f038b5-f1e2-42fe-ba7d-767a85977789/page/6C3tD) - Created an interactive dashboard to show time spent on deep work in 2023 and compared it to 2022.
+- [Data Analytics Resources](https://github.com/kellyjadams/data-analytics-resources) - My favorite resources and links for learning data analytics.
 
 ## 📚 Courses
 - [Excel](https://www.lukebarousse.com/a/2147977813/NY7yabZz) - [Excel Course Repo](https://github.com/lukebarousse/Excel_Data_Analytics_Course)
