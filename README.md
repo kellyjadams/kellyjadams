@@ -19,6 +19,7 @@
 
 - [Churn Predictive Model](https://github.com/kellyjadams/predictive-model-1) - Developed a predictive model to return customers who are predicted to churn. I used a random forest model. 
 - [Python Weekly Report](https://github.com/kellyjadams/bigquery-python-weekly-report/tree/main) - Wrote a Python script to automate part of my process for generating a weekly report. This helps improve accuracy and save time.
+- [Data Engineering Resources](https://github.com/kellyjadams/analytics-engineering-resources) - My favorite resources and links for analytics engineering.
 - [Data Analytics Resources](https://github.com/kellyjadams/data-analytics-resources) - My favorite resources and links for learning data analytics.
 
 ## 📚 Courses
