@@ -5,13 +5,13 @@
 - 📊 I'm currently a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
 - ⚙️ I specialize in product analytics and analytics engineering. 
 - 🎥 Course producer for [Luke Barousse's Youtube channel](https://www.youtube.com/c/lukebarousse). 
-- ✏ Post on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page about data analytics. 
-- ✉ I have a [blog](https://www.kellyjadams.com/blog) focusing on data engineering, data analytics, and my career journey. 
+- ✏ Post on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page about data analytics, analytics engineering and my career journey.
+- ✉ I have a [blog](https://www.kellyjadams.com/blog) and [newsletter](https://newsletter.kellyjadams.com/) focusing on the tools, concepts and best practices of analytics engineering and data analytics. 
 
 ## 🛠 Skills
 - **Programming Languages**: SQL (PostgreSQL, SQLite) | Python (Pandas, NumPy, Matplotlib, Scikit-learn)
 - **Tools**: Google Looker Studio | Google BigQuery | Google Cloud Platform | Excel
-- **Other**: ETL | Rest APIs | Git | Github
+- **Other**: ETL | Data Modeling | Rest APIs | Git | Github
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kellyjadams&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
