@@ -17,7 +17,7 @@
 
 ## ⭐ Favorite Repos
 
-- [Churn Predictive Model](https://github.com/kellyjadams/predictive-model-1) - Developed a predictive model to return customers who are predicted to churn. I used a random forest model. 
+- [Spotify API Listening Dashboard](https://github.com/kellyjadams/spotify-data-analyze) - Built a data pipeline that logs my Spotify listening history in BigQuery using Cloud Run and visualizes trends in Looker Studio.
 - [Python Weekly Report](https://github.com/kellyjadams/bigquery-python-weekly-report/tree/main) - Wrote a Python script to automate part of my process for generating a weekly report. This helps improve accuracy and save time.
 - [Analytics Engineering Resources](https://github.com/kellyjadams/analytics-engineering-resources) - My favorite resources and links for analytics engineering.
 - [Data Analytics Resources](https://github.com/kellyjadams/data-analytics-resources) - My favorite resources and links for learning data analytics.
@@ -28,6 +28,7 @@
 - SQL
   - [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz) - [Beginner SQL Course Repo](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis)
   - [Intermediate SQL](https://www.lukebarousse.com/a/2148087843/NY7yabZz) - [Intermediate SQL Course Repo](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/tree/main)
+- [PowerBI](#) - **work in progress**
 
 *The links for my courses above are affiliate links. If you decide to purchase the optional course resources through these links, I may receive a small commission at no extra cost to you.*
 
