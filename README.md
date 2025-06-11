@@ -28,7 +28,7 @@
 - SQL
   - [Beginner SQL](https://www.lukebarousse.com/a/2147831694/NY7yabZz) - [Beginner SQL Course Repo](https://github.com/lukebarousse/SQL_Project_Data_Job_Analysis)
   - [Intermediate SQL](https://www.lukebarousse.com/a/2148087843/NY7yabZz) - [Intermediate SQL Course Repo](https://github.com/lukebarousse/Int_SQL_Data_Analytics_Course/tree/main)
-- [PowerBI](#) - **work in progress**
+- [PowerBI](https://www.lukebarousse.com/a/2148127135/NY7yabZz)
 
 *The links for my courses above are affiliate links. If you decide to purchase the optional course resources through these links, I may receive a small commission at no extra cost to you.*
 
