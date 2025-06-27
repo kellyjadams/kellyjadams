@@ -1,4 +1,4 @@
-👋 Hi, I’m Kelly, a data analyst from the US. 
+👋 Hi, I’m Kelly, an analytics engineer from the US. 
 
 ## 🙋‍♀️ About Me
 
