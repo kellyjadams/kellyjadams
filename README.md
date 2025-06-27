@@ -2,8 +2,8 @@
 
 ## 🙋‍♀️ About Me
 
-- 📊 I'm currently a data analyst at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
-- ⚙️ I specialize in product analytics and analytics engineering. 
+- 📊 I'm currently an analytics engineer at [Golden Hearts Games](https://www.goldenheartsgames.com/home).
+- ⚙️ I specialize in product and marketing analytics. 
 - 🎥 Course producer for [Luke Barousse](https://github.com/lukebarousse) where I help make courses for his [Youtube channel](https://www.youtube.com/c/lukebarousse). 
 - ✏ Post on my [LinkedIn](https://www.linkedin.com/in/kellyjianadams/) page about data analytics, analytics engineering and my career journey.
 - ✉ I have a [blog](https://www.kellyjadams.com/blog) and [newsletter](https://newsletter.kellyjadams.com/) focusing on the tools, concepts and best practices of analytics engineering and data analytics. 
